@@ -1,4 +1,4 @@
-[![MasterHead](https://www.impressico.com/wp-content/uploads/2020/10/bi-dashboard.gif)height="30" width="40"]
+[![MasterHead](https://www.impressico.com/wp-content/uploads/2020/10/bi-dashboard.gif)]
 
 <h1 align="center">𝓗𝓲 👋, 𝓘'𝓶 𝓼𝓱𝓾𝓫𝓱𝓪𝓶 𝓵𝓸𝓭𝓪𝓶</h1>
 <h3 align="center">𝓐 𝓹𝓪𝓼𝓼𝓲𝓸𝓷𝓪𝓽𝓮 𝓓𝓪𝓽𝓪 𝓐𝓷𝓪𝓵𝔂𝓼𝓽 𝓯𝓻𝓸𝓶 𝓘𝓷𝓭𝓲𝓪</h3>
