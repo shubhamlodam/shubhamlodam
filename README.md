@@ -39,9 +39,8 @@
 
 <p><img align="center" "800" height="150" src="https://github-readme-streak-stats.herokuapp.com/?user=shubhamlodam&" alt="shubhamlodam" /></p>
 
----
-<h3 align="left">✍️ Random Dev Quote:</h3>
-<p><img align="left" "800" height="150" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="shubhamlodam" /></p>
+
+
 
 
 
