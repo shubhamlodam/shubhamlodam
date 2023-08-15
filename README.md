@@ -11,7 +11,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shubhamlodam&label=Profile%20views&color=0e75b6&style=flat" alt="shubhamlodam" /> </p>
 <p align="left"> <a href="https://www.linkedin.com/in/shubham-lodam-6a8386255/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> </p>
 
-- 🌱 I’m currently learning **SQL, MySQL, PowerBI, Snowflake & Python**
+- 🌱 I’m proficient in **SQL, MySQL, PowerBI, Snowflake & Python**
 
 - 👀 I’m interested in **Data Analytics & Visualization**
 
